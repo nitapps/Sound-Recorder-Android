@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oEIfFzee09qoDayo8+0KpIm0pxgyhw2kY8ixe/XmXa6s6MOojvQs6+dRXjOX/PR0snGRQI9Yb+9RT2Vae8rRIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n\\Source\\Repos\\Sound-Recorder-Android\\SoundRecorder\\SoundRecorder\\SoundRecorder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\n\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\n\\.nuget\\packages\\plugin.audiorecorder\\1.1.0\\plugin.audiorecorder.1.1.0.nupkg.sha512",
+    "C:\\Users\\n\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\n\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

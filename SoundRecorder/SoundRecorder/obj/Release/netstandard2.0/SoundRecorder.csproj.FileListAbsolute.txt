@@ -1,0 +1,16 @@
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\bin\Release\netstandard2.0\SoundRecorder.deps.json
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\bin\Release\netstandard2.0\SoundRecorder.dll
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\bin\Release\netstandard2.0\ref\SoundRecorder.dll
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\bin\Release\netstandard2.0\SoundRecorder.pdb
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\ListRecordings.xaml.g.cs
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\RenameRecording.xaml.g.cs
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\SoundRecorder.AssemblyInfoInputs.cache
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\SoundRecorder.AssemblyInfo.cs
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\SoundRecorder.csproj.CoreCompileInputs.cache
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\SoundRecorder.dll
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\ref\SoundRecorder.dll
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\SoundRecorder.pdb
+C:\Users\n\source\repos\SoundRecorder\SoundRecorder\SoundRecorder\obj\Release\netstandard2.0\SoundRecorder.csprojAssemblyReference.cache

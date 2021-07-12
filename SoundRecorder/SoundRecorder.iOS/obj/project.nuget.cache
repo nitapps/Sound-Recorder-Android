@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "emw6v/ayYH4EIE1E7Q13GT5qz17F2mTuV/DKWb1Ix7W7miy2WjB6sVY7U9tz4ZjUMZ0A80e70skK9qz4aAw6kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n\\Source\\Repos\\Sound-Recorder-Android\\SoundRecorder\\SoundRecorder.iOS\\SoundRecorder.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n\\.nuget\\packages\\plugin.audiorecorder\\1.1.0\\plugin.audiorecorder.1.1.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\n\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

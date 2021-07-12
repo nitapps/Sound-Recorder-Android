@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SoundRecorder"
+             x:Class="SoundRecorder.MainPage"
+             Padding="10"
+             Visual="Material"
+             BackgroundColor="#357ec7"
+             Title="Sound Recorder"
+             >
+
+    <Grid BackgroundColor="#e3e4fa">
+        <Grid.GestureRecognizers>
+            <SwipeGestureRecognizer Direction="Left" Swiped="GotoRecordingsPage"/>
+        </Grid.GestureRecognizers>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="{local:ImageResource SoundRecorder.Images.sound_recorder_icon.png}" Grid.Row="0" BackgroundColor="#e3e4fa"/>
+        <StackLayout Orientation = "Horizontal" Grid.Row="1" HorizontalOptions="Center" BackgroundColor="#e3e4fa">
+            <Label x:Name="lblMinutes" Text="00" TextColor="Black" FontSize = "70"/>
+            <Label Text=":" FontSize = "70" TextColor="Black"/>
+            <Label x:Name="lblSeconds" Text="00" TextColor="Black" FontSize = "70"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Grid.Row="2" HorizontalOptions="Center" VerticalOptions="Center" >
+            <Button x:Name="RecordButton" Visual="Material" Text="RECORD" BackgroundColor="#e3e4fa" TextColor="Black" Image="{local:ImageResource SoundRecorder.Images.mic_icon48x48.png}"  Margin="0,0,20,0" HorizontalOptions="Center" VerticalOptions="Center" Clicked="OnRecordAsync"/>
+            <Button x:Name="StopButton" Text="STOP" TextColor="Black" BackgroundColor="#e3e4fa" Image="{local:ImageResource SoundRecorder.Images.stop_icon48x48.png}" HorizontalOptions="Center" Margin="20,0,0,0"  VerticalOptions="Center" Clicked="OnStopAsync"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Grid.Row="3" HorizontalOptions="Center" VerticalOptions="Start" >
+            <Button x:Name="PlayButton"  BackgroundColor="#e3e4fa" TextColor="Black" Text="PLAY" Margin="0,0,20,0" Image="{local:ImageResource SoundRecorder.Images.play_icon48x48.png}" HorizontalOptions="Center" VerticalOptions="Center" Clicked="OnPlay"/>
+            <Button x:Name="RecordingListButton" Text="List" BackgroundColor="#e3e4fa" TextColor="Black" HorizontalOptions="Center" Margin="20,0,0,0" Image="{local:ImageResource SoundRecorder.Images.list_icon48x48.png}"  VerticalOptions="Center" Clicked="GotoRecordingsPage"/>
+        </StackLayout>
+
+    </Grid>
+        
+       
+    
+
+</ContentPage>
